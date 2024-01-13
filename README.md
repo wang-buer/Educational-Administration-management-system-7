@@ -1,10 +1,4 @@
-# 教务（选课）管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**选课7** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 教务（选课）管理系统7
 
 ## 1、项目介绍
 
@@ -35,55 +29,52 @@
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181747205.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207181747205.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181747774.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202207181747774.jpg)
 
 ### 4.2 管理员模块
 
-![管理员首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181747201.jpg)
+![管理员首页](https://www.codeshop.fun/Typora-Images/202207181747201.jpg)
 
-![管理员-查看公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748151.jpg)
+![管理员-查看公告](https://www.codeshop.fun/Typora-Images/202207181748151.jpg)
 
-![管理员-添加公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748022.jpg)
+![管理员-添加公告](https://www.codeshop.fun/Typora-Images/202207181748022.jpg)
 
-![管理员 -查看所有课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748315.jpg)
+![管理员 -查看所有课程](https://www.codeshop.fun/Typora-Images/202207181748315.jpg)
 
-![管理员-学生选课信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748645.jpg)
+![管理员-学生选课信息管理](https://www.codeshop.fun/Typora-Images/202207181748645.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748019.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202207181748019.jpg)
 
-![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748126.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202207181748126.jpg)
 
 ### 4.3 教师模块
 
-![教师-查看公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748995.jpg)
+![教师-查看公告](https://www.codeshop.fun/Typora-Images/202207181748995.jpg)
 
-![教师-查看我的课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748329.jpg)
+![教师-查看我的课程](https://www.codeshop.fun/Typora-Images/202207181748329.jpg)
 
-![教师-发布课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748069.jpg)
+![教师-发布课程](https://www.codeshop.fun/Typora-Images/202207181748069.jpg)
 
-![教师-成绩评定](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748843.jpg)
+![教师-成绩评定](https://www.codeshop.fun/Typora-Images/202207181748843.jpg)
 
-![教师-通讯录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748799.jpg)
+![教师-通讯录](https://www.codeshop.fun/Typora-Images/202207181748799.jpg)
 
 ### 4.4学生 模块
 
-![学生-查看我的课表及退课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748227.jpg)
+![学生-查看我的课表及退课](https://www.codeshop.fun/Typora-Images/202207181748227.jpg)
 
-![学生-选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748804.jpg)
+![学生-选课](https://www.codeshop.fun/Typora-Images/202207181748804.jpg)
 
-![学生通讯录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181748389.jpg)
+![学生通讯录](https://www.codeshop.fun/Typora-Images/202207181748389.jpg)
 
 ### 4.5 设计文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207181749069.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202207181749069.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**选课7** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**选课**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
